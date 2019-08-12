@@ -1,4 +1,5 @@
 from tkinter import *
+from numpy import *
 
 def integral(f,ini,final,divisoes):
 	tamanho = (final - ini) / divisoes
